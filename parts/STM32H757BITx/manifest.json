@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H757BITx:STM32H757BITx",
+  "name": "STM32H757BITx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H757BITx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 141 GPIO, LQFP208",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h757bi.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H747/757",
+  "footprint": "Package_QFP:LQFP-208_28x28mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H757BITx/",
+  "part_path": "parts/STM32H757BITx",
+  "symbol_file": "parts/STM32H757BITx/STM32H757BITx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.680Z"
+}

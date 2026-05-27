@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H730IBTxQ:STM32H730IBTxQ",
+  "name": "STM32H730IBTxQ",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H730IBTxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 128KB flash, 564KB RAM, 550 MHz, 1.62-3.6V, 121 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h730ib.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H730 Value line",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H730IBTxQ/",
+  "part_path": "parts/STM32H730IBTxQ",
+  "symbol_file": "parts/STM32H730IBTxQ/STM32H730IBTxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:53.999Z"
+}

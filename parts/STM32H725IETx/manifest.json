@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H725IETx:STM32H725IETx",
+  "name": "STM32H725IETx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H725IETx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 512KB flash, 564KB RAM, 550 MHz, 1.62-3.6V, 121 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h725ie.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H725/735",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H725IETx/",
+  "part_path": "parts/STM32H725IETx",
+  "symbol_file": "parts/STM32H725IETx/STM32H725IETx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:53.891Z"
+}

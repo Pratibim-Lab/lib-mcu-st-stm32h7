@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H742IITx:STM32H742IITx",
+  "name": "STM32H742IITx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H742IITx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 692KB RAM, 480 MHz, 1.62-3.6V, 140 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h742ii.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H742",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "STM32H742I_G-I_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H742IITx/",
+  "part_path": "parts/STM32H742IITx",
+  "symbol_file": "parts/STM32H742IITx/STM32H742IITx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.206Z"
+}

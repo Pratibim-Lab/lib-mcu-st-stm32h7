@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H742IGKx:STM32H742IGKx",
+  "name": "STM32H742IGKx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H742IGKx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 692KB RAM, 480 MHz, 1.62-3.6V, 140 GPIO, UFBGA176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h742ig.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H742",
+  "footprint": "Package_BGA:UFBGA-201_10x10mm_Layout15x15_P0.65mm",
+  "extends": "STM32H742I_G-I_Kx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H742IGKx/",
+  "part_path": "parts/STM32H742IGKx",
+  "symbol_file": "parts/STM32H742IGKx/STM32H742IGKx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.197Z"
+}

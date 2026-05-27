@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H7A3V_G-I_TxQ:STM32H7A3V_G-I_TxQ",
+  "name": "STM32H7A3V_G-I_TxQ",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H7A3V_G-I_TxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024-2048KB flash, 1184KB RAM, 280 MHz, 1.62-3.6V, 70 GPIO, LQFP100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h7a3vg.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H7A3/7B3",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H7A3V_G-I_TxQ/",
+  "part_path": "parts/STM32H7A3V_G-I_TxQ",
+  "symbol_file": "parts/STM32H7A3V_G-I_TxQ/STM32H7A3V_G-I_TxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.760Z"
+}

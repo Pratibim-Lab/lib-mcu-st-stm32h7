@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H7A3NIHx:STM32H7A3NIHx",
+  "name": "STM32H7A3NIHx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H7A3NIHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1184KB RAM, 280 MHz, 1.62-3.6V, 168 GPIO, TFBGA216",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h7a3ni.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H7A3/7B3",
+  "footprint": "Package_BGA:TFBGA-216_13x13mm_Layout15x15_P0.8mm",
+  "extends": "STM32H7A3N_G-I_Hx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H7A3NIHx/",
+  "part_path": "parts/STM32H7A3NIHx",
+  "symbol_file": "parts/STM32H7A3NIHx/STM32H7A3NIHx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.737Z"
+}

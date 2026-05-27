@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H733ZGIx:STM32H733ZGIx",
+  "name": "STM32H733ZGIx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H733ZGIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 564KB RAM, 550 MHz, 1.62-3.6V, 114 GPIO, UFBGA144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h733zg.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H723/733",
+  "footprint": "Package_BGA:UFBGA-144_7x7mm_Layout12x12_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H733ZGIx/",
+  "part_path": "parts/STM32H733ZGIx",
+  "symbol_file": "parts/STM32H733ZGIx/STM32H733ZGIx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.053Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H730ZBIx:STM32H730ZBIx",
+  "name": "STM32H730ZBIx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H730ZBIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 128KB flash, 564KB RAM, 550 MHz, 1.62-3.6V, 114 GPIO, UFBGA144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h730zb.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H730 Value line",
+  "footprint": "Package_BGA:UFBGA-144_7x7mm_Layout12x12_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H730ZBIx/",
+  "part_path": "parts/STM32H730ZBIx",
+  "symbol_file": "parts/STM32H730ZBIx/STM32H730ZBIx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.031Z"
+}

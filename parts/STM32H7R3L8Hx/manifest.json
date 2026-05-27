@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H7R3L8Hx:STM32H7R3L8Hx",
+  "name": "STM32H7R3L8Hx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H7R3L8Hx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 64KB flash, 620KB RAM, 152 GPIO, TFBGA225 OCTO SMPS",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h7r3l8.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H7R3/7S3",
+  "footprint": "Package_BGA:ST_TFBGA-225_13x13mm_Layout15x15_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H7R3L8Hx/",
+  "part_path": "parts/STM32H7R3L8Hx",
+  "symbol_file": "parts/STM32H7R3L8Hx/STM32H7R3L8Hx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.855Z"
+}

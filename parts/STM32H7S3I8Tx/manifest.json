@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H7S3I8Tx:STM32H7S3I8Tx",
+  "name": "STM32H7S3I8Tx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H7S3I8Tx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 64KB flash, 620KB RAM, 119 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h7s3i8.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H7R3/7S3",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H7S3I8Tx/",
+  "part_path": "parts/STM32H7S3I8Tx",
+  "symbol_file": "parts/STM32H7S3I8Tx/STM32H7S3I8Tx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.905Z"
+}

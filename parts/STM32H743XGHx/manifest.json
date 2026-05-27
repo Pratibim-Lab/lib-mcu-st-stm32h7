@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H743XGHx:STM32H743XGHx",
+  "name": "STM32H743XGHx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H743XGHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 172 GPIO, TFBGA240",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h743xg.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H743/753",
+  "footprint": "Package_BGA:TFBGA-265_14x14mm_Layout17x17_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H743XGHx/",
+  "part_path": "parts/STM32H743XGHx",
+  "symbol_file": "parts/STM32H743XGHx/STM32H743XGHx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.422Z"
+}

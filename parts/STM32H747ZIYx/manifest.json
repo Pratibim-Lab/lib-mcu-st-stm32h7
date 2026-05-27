@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32H7/STM32H747ZIYx:STM32H747ZIYx",
+  "name": "STM32H747ZIYx",
+  "library": "MCU_ST_STM32H7",
+  "file": "MCU_ST_STM32H7.kicad_symdir/STM32H747ZIYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 101 GPIO, WLCSP156",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32h747zi.pdf",
+  "keywords": "Arm Cortex-M7 STM32H7 STM32H747/757",
+  "footprint": "Package_CSP:ST_WLCSP-156_4.96x4.64mm_Layout13x12_P0.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32h7@master/parts/STM32H747ZIYx/",
+  "part_path": "parts/STM32H747ZIYx",
+  "symbol_file": "parts/STM32H747ZIYx/STM32H747ZIYx.kicad_sym",
+  "source_library": "MCU_ST_STM32H7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:54.594Z"
+}
